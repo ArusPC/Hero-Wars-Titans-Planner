@@ -51,4 +51,4 @@ Assurez-vous que les deux fichiers correspondent à la même publication officie
 
 **Résultat attendu :** le message **`OK`** confirme que la somme SHA-256 calculée pour l'archive correspond à la valeur de référence inscrite dans le fichier `Hero-Wars-Titans-Planner-v1.01-FR.7z.sha256`.
 
-[⬆ Retour en haut](#haut)
+<div align="right"><a href="#haut">⬆ Retour en haut</a></div>
