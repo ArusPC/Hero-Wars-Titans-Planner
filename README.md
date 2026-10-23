@@ -1,16 +1,16 @@
 <a id="haut"></a>
-# Hero-Wars-Titans-Planner
-Planificateur de progression des Titans pour Hero Wars Dominion Era sur PC, réalisé avec LibreOffice Calc.  
-Ce classeur permet de planifier l'utilisation des ressources et de suivre la progression des Titans.
-
-# TitanPlan
+# TitanPlan - Hero Wars Dominion Era sur PC
 ## Planificateur de ressources pour la progression des Titans
 
-TitanPlan est un classeur LibreOffice Calc qui aide à planifier la progression des Titans dans Hero Wars : niveaux d'EXP, skins, artefacts et ressources nécessaires.
+TitanPlan est un **classeur LibreOffice Calc** qui aide à planifier la progression des Titans dans Hero Wars : niveaux d'EXP, skins, artefacts et ressources nécessaires.
 
-> **Prérequis :** la dernière version stable de LibreOffice est nécessaire. Téléchargez LibreOffice, qui comprend Calc, depuis le [site officiel](https://fr.libreoffice.org/download/).
+> **Prérequis :** la dernière version stable de **LibreOffice** est nécessaire. Téléchargez LibreOffice, qui comprend **Calc**, depuis le **[site officiel](https://fr.libreoffice.org/download/)**.
 
 [Télécharger la dernière version du classeur](https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/latest)
+
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| [Fonctions du classeur](#fonctions-du-classeur) | [Démarrage](#démarrage) | [Captures d'écran](#captures-décran) | [Licence](#licence) |
 
 ## Fonctions du classeur
 
