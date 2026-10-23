@@ -7,8 +7,7 @@
 * Source officielle : https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/tag/v1.01
 
 ## Clé SHA-256
-> Le classeur LibreOffice Calc document maître `Hero-Wars-Titans-Planner-v1.01-FR.ods` doit être inclus dans l'archive de distribution.  
-La somme SHA-256 suivante permet de vérifier que l'**archive de distribution** téléchargée correspond exactement à celle publiée officiellement.
+> Le classeur LibreOffice Calc document maître `Hero-Wars-Titans-Planner-v1.01-FR.ods` doit être inclus dans l'archive de distribution. La somme SHA-256 suivante permet de vérifier que l'**archive de distribution** téléchargée correspond exactement à celle publiée officiellement.
 
 **Fichier de l'archive**&nbsp;: `Hero-Wars-Titans-Planner-v1.01-FR.7z`  
 **Clé SHA-256&nbsp;:** 14819269478c14a61750884ea411251fde3b638c8b718a7ec417629394860279
