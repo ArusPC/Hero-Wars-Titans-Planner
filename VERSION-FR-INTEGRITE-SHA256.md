@@ -1,7 +1,7 @@
 <a id="haut"></a>
 # VERSION ET INTEGRITE-SHA256
 ### Identité
-* PROJET : Hero-Wars-Titans-Planner
+* PROJET : TitanPlan - Hero-Wars-Titans-Planner
 * VERSION : v1.01
 * AUTEUR : Bubo Band
 * Source officielle : https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/tag/v1.01
