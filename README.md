@@ -107,7 +107,7 @@ Cliquez sur une capture pour l'ouvrir en grand format.
   <tr>
     <td align="center" colspan=2>
       <a href="images/10_Tables.PNG"><img src="images/10_Tables.PNG" width="640" alt="Table des données"></a><br>
-      <strong>Table des données</strong>
+      <strong>Table des données utilisées par les divers outils de gestion des ressources</strong>
     </td>
   </tr>
 </table>
