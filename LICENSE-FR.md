@@ -23,7 +23,7 @@ Chaque **« GitHub Release »** officiellement publiée par l'auteur constitue u
 Le document maître et l'archive de distribution associés à chaque version officielle reprend cet identifiant dans son nom selon la nomenclature suivante :  
 `Hero-Wars-Titans-Planner-<version>.ods` et `Hero-Wars-Titans-Planner-<version>.7z`
 
-La licence, le fichier « VERSION-INTEGRITE-SHA256.md » ainsi que tout autre fichier distribué avec une GitHub Release officielle font partie intégrante de la version officielle correspondante.
+La licence, le fichier `VERSION-INTEGRITE-SHA256.md` ainsi que tout autre fichier distribué avec une GitHub Release officielle font partie intégrante de la version officielle correspondante.
 
 Toute copie ou distribution qui ne correspond pas au contenu de la version officielle correspondante, qui comporte des modifications non autorisées ou qui ne permet pas d'identifier clairement la version à laquelle elle se rapporte ne constitue pas une version officielle.
 
@@ -31,7 +31,7 @@ Une nouvelle version officielle peut être publiée même lorsque le contenu fon
 
 ### 3. Hachage d’intégrité (référence de contrôle)
 
-Les valeurs de référence SHA-256 de la version officielle sont indiquées dans le fichier « VERSION-INTEGRITE-SHA256.md ».
+Les valeurs de référence SHA-256 de la version officielle sont indiquées dans le fichier `VERSION-INTEGRITE-SHA256.md`.
 
 Ce fichier contient notamment :
 * le hachage SHA-256 du fichier d'archive officiel de distribution (`.7z`) ;
