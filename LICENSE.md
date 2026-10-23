@@ -20,6 +20,4 @@ Sont interdits sans autorisation écrite préalable de l'auteur :
 * la publication du document ou d'une version modifiée sur un site web ou une plateforme de partage ;
 * toute exploitation commerciale du document ou d'une version dérivée.
 
-Sans autorisation écrite explicite de l’auteur, la redistribution du document original, sa publication en ligne, la diffusion de versions modifiées et son intégration dans un produit ou service redistribué sont interdites.
-
 **Clause de pérennité :** si aucune nouvelle GitHub Release officielle n’est publiée pendant douze mois continus, les détenteurs admissibles d’une copie légalement obtenue depuis une source officielle acquièrent le droit de redistribuer, modifier et adapter l’œuvre selon la licence CC BY-NC-SA 4.0. La publication ultérieure d’une nouvelle GitHub Release ne retire pas les droits ainsi acquis.
