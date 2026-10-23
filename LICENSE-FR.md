@@ -14,7 +14,7 @@ Toute autre source de diffusion est considérée comme non officielle et potenti
 
 * **Auteur :** Bubo Band
 * **Version officielle :** v1.01
-* **Date de publication :** 22-10-2026
+* **Date de publication :** 23-10-2026
 * **Document maître :** Hero-Wars-Titans-Planner-v1.01-FR.ods
 * **Archive de distribution :** Hero-Wars-Titans-Planner-v1.01-FR-v1.01.7z
 * **Statut :** version officielle contrôlée
