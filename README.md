@@ -3,7 +3,7 @@
 
 | [Fonctions du classeur](#fonctions-du-classeur) | [Démarrage](#démarrage) | [Captures d'écran](#captures-décran) | [Licence](#licence) |
 | --- | --- | --- | --- |
-## Planificateur de ressources pour la progression des Titans
+### Planificateur de ressources pour la progression des Titans
 
 TitanPlan est un **classeur LibreOffice Calc** qui aide à planifier la progression des Titans dans Hero Wars : niveaux d'EXP, skins, artefacts et ressources nécessaires.
 
