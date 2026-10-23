@@ -8,7 +8,7 @@ Ce classeur permet de planifier l'utilisation des ressources et de suivre la pro
 
 TitanPlan est un classeur LibreOffice Calc qui aide à planifier la progression des Titans dans Hero Wars : niveaux d'EXP, skins, artefacts et ressources nécessaires.
 
-> **Prérequis :** la dernière version stable de LibreOffice est nécessaire. Téléchargez LibreOffice, qui comprend Calc, depuis le [site officiel](https://www.libreoffice.org/download/).
+> **Prérequis :** la dernière version stable de LibreOffice est nécessaire. Téléchargez LibreOffice, qui comprend Calc, depuis le [site officiel](https://fr.libreoffice.org/download/).
 
 [Télécharger la dernière version du classeur](https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/latest)
 
