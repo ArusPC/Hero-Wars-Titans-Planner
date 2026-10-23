@@ -66,6 +66,16 @@ Cliquez sur une capture pour l'ouvrir en grand format.
 <table>
   <tr>
     <td align="center">
+      <a href="images/Logo_Blason_Royaume_de_Sol.png"><img src="images/Logo_Blason_Royaume_de_Sol.png" width="200" alt="Royaume de Sol"></a><br>
+      <strong>Royaume de Sol</strong>
+    </td>
+    <td align="center">
+      <a href="images/00_Notes.PNG"><img src="images/00_Notes.PNG" width="440" alt="Page d'accueil : instructions et menu"></a><br>
+      <strong>Niveaux, skins et calepin prévisionnel</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="images/01_Skins_niveau_et_ames.PNG"><img src="images/01_Skins_niveau_et_ames.PNG" width="440" alt="Progression des niveaux d'EXP et des skins, grille des Titans et calepin prévisionnel"></a><br>
       <strong>Niveaux, skins et calepin prévisionnel</strong>
     </td>
@@ -92,6 +102,12 @@ Cliquez sur une capture pour l'ouvrir en grand format.
     <td align="center">
       <a href="images/06_Exporter-imprimer.PNG"><img src="images/06_Exporter-imprimer.PNG" width="440" alt="Tableaux de progression prêts à exporter ou imprimer"></a><br>
       <strong>Exportation et impression</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan=2>
+      <a href="images/10_Tables.PNG"><img src="images/10_Tables.PNG" width="640" alt="Table des données"></a><br>
+      <strong>Table des données</strong>
     </td>
   </tr>
 </table>
