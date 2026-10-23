@@ -1,3 +1,4 @@
+<a id="haut"></a>
 # DROIT D’AUTEUR ET CONTRÔLE DE VERSION
 © 2026 Bubo Band. Tous droits réservés.
 
@@ -113,3 +114,5 @@ Le décès de l'auteur ne constitue pas, à lui seul, un abandon de l'œuvre et 
 ### 9. Mention obligatoire
 
 Toute copie autorisée ou usage interne doit conserver intégralement cette notice.
+
+[⬆ Retour en haut](#haut)
