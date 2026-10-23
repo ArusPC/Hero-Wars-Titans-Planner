@@ -45,7 +45,7 @@ La feuille **EXPORTER-IMPRIMER** rassemble les données de progression des nivea
 
 La feuille **Tables** contient les données de référence utilisées par les calculs. Elle est protégée contre les modifications. Ses données peuvent être copiées, mais ne doivent pas être modifiées ni effacées.
 
-[⬆ Retour en haut](#haut)
+<div align="right"><a href="#haut">⬆ Retour en haut</a></div>
 
 ## Démarrage
 
@@ -56,7 +56,7 @@ La feuille **Tables** contient les données de référence utilisées par les ca
 
 La protection de certaines feuilles peut être désactivée sans mot de passe, mais ce n'est pas conseillé. Les cellules vides des autres feuilles peuvent être utilisées pour vos notes personnelles.
 
-[⬆ Retour en haut](#haut)
+<div align="right"><a href="#haut">⬆ Retour en haut</a></div>
 
 ## Captures d'écran
 
@@ -95,7 +95,8 @@ Cliquez sur une capture pour l'ouvrir en grand format.
   </tr>
 </table>
 
-[⬆ Retour en haut](#haut)
+<div align="right"><a href="#haut">⬆ Retour en haut</a></div>
+
 <!--
 ## Soutenir le projet
 
@@ -105,6 +106,6 @@ Si ce classeur vous est utile et que vous souhaitez soutenir son développement,
 -->
 
 ## Licence
-> **Licence propriétaire.** *Usage personnel ou interne autorisé&nbsp;; redistribution, publication en ligne et diffusion de versions modifiées interdites sans autorisation écrite de l’auteur. Consultez [le résumé et les liens](LICENSE.md) et le [texte complet en français](LICENSE-FR.md).*
+> **Licence propriétaire.** *Usage personnel ou interne autorisé&nbsp;; redistribution, publication en ligne et diffusion de versions modifiées interdites sans autorisation écrite de l’auteur. Consultez [le résumé et les liens](LICENSE.md) ou le [texte complet en français](LICENSE-FR.md).*
 
-[⬆ Retour en haut](#haut)
+<div align="right"><a href="#haut">⬆ Retour en haut</a></div>
