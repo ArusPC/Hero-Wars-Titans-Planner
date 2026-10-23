@@ -101,4 +101,5 @@ Si ce classeur vous est utile et que vous souhaitez soutenir son développement,
 
 ## Licence
 > **Licence propriétaire.** *Usage personnel ou interne autorisé&nbsp;; redistribution, publication en ligne et diffusion de versions modifiées interdites sans autorisation écrite de l’auteur. Consultez [le résumé et les liens](LICENSE.md) et le [texte complet en français](LICENSE-FR.md).*
+
 [⬆ Retour en haut](#haut)
