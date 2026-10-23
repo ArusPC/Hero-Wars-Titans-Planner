@@ -8,9 +8,8 @@ TitanPlan est un **classeur LibreOffice Calc** qui aide à planifier la progress
 
 [Télécharger la dernière version du classeur](https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/latest)
 
-|  |  |  |  |
-|:---:|:---:|:---:|:---:|
 | [Fonctions du classeur](#fonctions-du-classeur) | [Démarrage](#démarrage) | [Captures d'écran](#captures-décran) | [Licence](#licence) |
+|:---:|:---:|:---:|:---:|
 
 ## Fonctions du classeur
 
@@ -45,6 +44,8 @@ La feuille **EXPORTER-IMPRIMER** rassemble les données de progression des nivea
 
 La feuille **Tables** contient les données de référence utilisées par les calculs. Elle est protégée contre les modifications. Ses données peuvent être copiées, mais ne doivent pas être modifiées ni effacées.
 
+[⬆ Retour en haut](#haut)
+
 ## Démarrage
 
 1. Téléchargez le classeur depuis la [dernière Release](https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/latest), puis ouvrez le fichier `.ods` avec LibreOffice Calc.
@@ -53,6 +54,8 @@ La feuille **Tables** contient les données de référence utilisées par les ca
 4. Utilisez les filtres de la grille des Titans pour afficher les lignes qui vous intéressent.
 
 La protection de certaines feuilles peut être désactivée sans mot de passe, mais ce n'est pas conseillé. Les cellules vides des autres feuilles peuvent être utilisées pour vos notes personnelles.
+
+[⬆ Retour en haut](#haut)
 
 ## Captures d'écran
 
@@ -91,6 +94,7 @@ Cliquez sur une capture pour l'ouvrir en grand format.
   </tr>
 </table>
 
+[⬆ Retour en haut](#haut)
 <!--
 ## Soutenir le projet
 
