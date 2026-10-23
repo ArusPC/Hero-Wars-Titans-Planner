@@ -40,14 +40,14 @@ Pour vérifier automatiquement l'intégrité de l'archive, téléchargez les deu
 Assurez-vous que les deux fichiers correspondent à la même publication officielle et, au besoin, téléchargez-les de nouveau.
 **Placez les deux fichiers dans le même dossier**.
 
-**Linux -** Ouvrez un terminal dans ce dossier et exécutez&nbsp;:
-```bash
-sha256sum -c Hero-Wars-Titans-Planner-v1.01-FR.7z.sha256
-```
-**macOS -** Ouvrez un terminal dans ce dossier et exécutez&nbsp;:
-```bash
-shasum -a 256 -c Hero-Wars-Titans-Planner-v1.01-FR.7z.sha256
-```
+* **Linux -** Ouvrez un terminal dans ce dossier et exécutez&nbsp;:
+   ```bash
+   sha256sum -c Hero-Wars-Titans-Planner-v1.01-FR.7z.sha256
+   ```
+* **macOS -** Ouvrez un terminal dans ce dossier et exécutez&nbsp;:
+   ```bash
+   shasum -a 256 -c Hero-Wars-Titans-Planner-v1.01-FR.7z.sha256
+   ```
 
 **Résultat attendu :** le message **`OK`** confirme que la somme SHA-256 calculée pour l'archive correspond à la valeur de référence inscrite dans le fichier `Hero-Wars-Titans-Planner-v1.01-FR.7z.sha256`.
 
