@@ -30,6 +30,8 @@ Toute copie ou distribution qui ne correspond pas au contenu de la version offic
 
 Une nouvelle version officielle peut être publiée même lorsque le contenu fonctionnel du document maître demeure identique à celui de la version précédente, notamment lorsqu'une modification de la licence, de la documentation ou d'un autre élément distribué avec le projet est effectuée.
 
+[⬆ Retour en haut](#haut)
+
 ### 3. Hachage d’intégrité (référence de contrôle)
 
 Les valeurs de référence SHA-256 de la version officielle sont indiquées dans le fichier `VERSION-INTEGRITE-SHA256.md`.
@@ -42,11 +44,15 @@ Le hachage du fichier `.7z` permet de vérifier que l'archive de distribution, i
 
 Lorsqu'une nouvelle version officielle est publiée, de nouvelles valeurs de référence SHA-256 sont établies pour cette version.
 
+[⬆ Retour en haut](#haut)
+
 ### 4. Usage autorisé
 Sous réserve d’obtention légitime, il est permis de :
 * utiliser le document pour un usage personnel ou interne ;
 * modifier le document pour des besoins propres ;
 * conserver une copie privée de travail et des copies privées d'archivage.
+
+[⬆ Retour en haut](#haut)
 
 ### 5. Interdiction de redistribution
 Sauf autorisation écrite explicite de l’auteur :
@@ -55,6 +61,8 @@ Sauf autorisation écrite explicite de l’auteur :
 * la diffusion de versions modifiées est interdite ;
 * l’intégration dans tout produit ou service redistribué est interdite.
 
+[⬆ Retour en haut](#haut)
+
 ### 6. Règle de source officielle
 * Toute personne accédant à ce document est invitée à vérifier qu’elle dispose de la version officielle.
 * En cas de doute, seule la version fournie par l’auteur fait foi.
@@ -62,9 +70,13 @@ Sauf autorisation écrite explicite de l’auteur :
 * Chaque redistribution non autorisée constitue une copie dérivée hors contrôle de version.
 * L’auteur se réserve le droit de déclarer toute copie externe comme non officielle sans préavis.
 
+[⬆ Retour en haut](#haut)
+
 ### 7. Contributions
 * Les suggestions, corrections et améliorations peuvent être transmises directement à l’auteur.
 * Les contributions peuvent être intégrées dans une version officielle ultérieure.
+
+[⬆ Retour en haut](#haut)
 
 ### 8. Clause de pérennité
 L'œuvre « Hero-Wars-Titans-Planner » est distribuée sous une licence propriétaire telle que définie dans le présent document.
@@ -110,6 +122,8 @@ En cas de décès de l'auteur, ses ayants droit, son successeur légal ou toute 
 Le décès de l'auteur ne constitue pas, à lui seul, un abandon de l'œuvre et ne déclenche pas immédiatement la présente clause de pérennité.
 
 À défaut de maintien officiel de l'œuvre et de publication d'une nouvelle GitHub Release officielle pendant la période prévue au paragraphe 8.2, la présente clause de pérennité prend effet selon les conditions qui y sont définies.
+
+[⬆ Retour en haut](#haut)
 
 ### 9. Mention obligatoire
 
