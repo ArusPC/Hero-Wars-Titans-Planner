@@ -13,11 +13,11 @@ Toute autre source de diffusion est considérée comme non officielle et potenti
 ### 2. Identité et intégrité du document
 
 * **Auteur :** Bubo Band
-* **Version officielle :** v1.01
-* **Date de publication :** 23-10-2026
-* **Document maître :** Hero-Wars-Titans-Planner-v1.01-FR.ods
-* **Archive de distribution :** Hero-Wars-Titans-Planner-v1.01-FR-v1.01.7z
-* **Source officielle :** https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/tag/v1.01
+* **Version officielle :** v1.02
+* **Date de publication :** 24-10-2026
+* **Document maître :** Hero-Wars-Titans-Planner-v1.02-FR.ods
+* **Archive de distribution :** Hero-Wars-Titans-Planner-v1.01-FR-v1.02.7z
+* **Source officielle :** https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/tag/v1.02
 * **Statut :** version officielle contrôlée
 
 Chaque **« GitHub Release »** officiellement publiée par l'auteur constitue une nouvelle version officielle du projet et reçoit un identifiant de version selon la nomenclature « vX.YZ ».
