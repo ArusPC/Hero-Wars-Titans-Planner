@@ -2,9 +2,9 @@
 # VERSION ET INTEGRITE-SHA256
 ### Identité
 * PROJET : TitanPlan - Hero-Wars-Titans-Planner
-* VERSION : v1.01
+* VERSION : v1.02
 * AUTEUR : Bubo Band
-* Source officielle : https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/tag/v1.01
+* Source officielle : https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/tag/v1.02
 
 ## Clé SHA-256
 > Le classeur LibreOffice Calc document maître `Hero-Wars-Titans-Planner-v1.01-FR.ods` doit être inclus dans l'archive de distribution. La somme SHA-256 suivante permet de vérifier que l'**archive de distribution** téléchargée correspond exactement à celle publiée officiellement.
