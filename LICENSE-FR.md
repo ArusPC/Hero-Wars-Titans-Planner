@@ -17,6 +17,7 @@ Toute autre source de diffusion est considérée comme non officielle et potenti
 * **Date de publication :** 23-10-2026
 * **Document maître :** Hero-Wars-Titans-Planner-v1.01-FR.ods
 * **Archive de distribution :** Hero-Wars-Titans-Planner-v1.01-FR-v1.01.7z
+* **Source officielle :** https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/tag/v1.01
 * **Statut :** version officielle contrôlée
 
 Chaque **« GitHub Release »** officiellement publiée par l'auteur constitue une nouvelle version officielle du projet et reçoit un identifiant de version selon la nomenclature « vX.YZ ».
