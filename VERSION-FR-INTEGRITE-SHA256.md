@@ -10,7 +10,7 @@
 > Le classeur LibreOffice Calc document maître `Hero-Wars-Titans-Planner-v1.01-FR.ods` doit être inclus dans l'archive de distribution. La somme SHA-256 suivante permet de vérifier que l'**archive de distribution** téléchargée correspond exactement à celle publiée officiellement.
 
 **Fichier de l'archive**&nbsp;: `Hero-Wars-Titans-Planner-v1.01-FR.7z`  
-**Clé SHA-256&nbsp;:** f6fb28370232f82e9c46638693cab2437dc381004fd619f3dc97a1584587b98d
+**Clé SHA-256&nbsp;:** 6eca78c31d30534c18d041a59e0e54ef05666fab0f54253b141860c1dbe7da7e
 
 ## Vérification d'intégrité SHA-256
 > Il est fortement conseillé de vérifier l'intégrité du fichier d'archive `Hero-Wars-Titans-Planner-v1.01-FR.7z` avant toute utilisation.  
