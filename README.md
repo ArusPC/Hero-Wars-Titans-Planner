@@ -12,7 +12,7 @@ TitanPlan est un **classeur LibreOffice Calc** qui aide à planifier la progress
 📦 [Télécharger la dernière version du classeur](https://github.com/ArusPC/Hero-Wars-Titans-Planner/releases/latest)  
 🔐 [Instrructions pour vérifier l'intégrité de l'archive (SHA-256)](VERSION-FR-INTEGRITE-SHA256.md)
 
-> ***Note :** Ce classeur utilise le format ODF (OpenDocument TC), développé par OASIS et normalisé par l'ISO/IEC (26300). Google Docs/Sheets utilise son format natif qui n'est pas un standard public équivalent, et peut altérer la mise en page, les formats conditionnels, les noms définis et d'autres fonctionnalités lors de l'importation. **Utilisez exclusivement LibreOffice Calc** pour préserver l'intégrité du classeur.*
+> ***Note :** Ce classeur utilise le format ODF (OpenDocument TC), développé par OASIS et normalisé par l'ISO/IEC (26300). Google Docs/Sheets utilise ses formats natifs propriétaires, qui ne constituent pas des standards ouverts équivalents à ODF, et peut altérer la mise en page, les formats conditionnels, les noms définis, les formules et d'autres fonctionnalités lors de l'importation. **Utilisez exclusivement LibreOffice Calc** pour préserver l'intégrité du classeur.*
 
 ## Fonctions du classeur
 
